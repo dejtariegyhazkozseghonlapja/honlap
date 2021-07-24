@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/honlap/static/css/main.272e1dd5.chunk.css",
-    "main.js": "/honlap/static/js/main.0c9f2a10.chunk.js",
-    "main.js.map": "/honlap/static/js/main.0c9f2a10.chunk.js.map",
+    "main.js": "/honlap/static/js/main.ff2aba33.chunk.js",
+    "main.js.map": "/honlap/static/js/main.ff2aba33.chunk.js.map",
     "runtime-main.js": "/honlap/static/js/runtime-main.7e055188.js",
     "runtime-main.js.map": "/honlap/static/js/runtime-main.7e055188.js.map",
     "static/js/2.cfa78a8a.chunk.js": "/honlap/static/js/2.cfa78a8a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7e055188.js",
     "static/js/2.cfa78a8a.chunk.js",
     "static/css/main.272e1dd5.chunk.css",
-    "static/js/main.0c9f2a10.chunk.js"
+    "static/js/main.ff2aba33.chunk.js"
   ]
 }
