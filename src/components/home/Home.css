@@ -1,0 +1,31 @@
+/* Scroll options */
+body::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(0, 0, 0, 0.8); 
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background: rgb(120, 120, 120, 0.5); 
+  }
+  
+  body::-webkit-scrollbar-thumb:hover {
+    background:rgb(120, 120, 120, 1); 
+  }
+/* Scroll options */
+
+.mainWrapper{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+@media screen and (max-width: 900px){
+    .mainWrapper{
+        width: 100%;
+    }
+
+}
