@@ -23,28 +23,28 @@ function App() {
             <Route path="/admin">
               <Admin />
             </Route>
-            <Route exact path="/adomanyok">
+            <Route exact path="/honlap/adomanyok">
               <Adomanyok />
             </Route>
-            <Route exact path="/esemenyek">
+            <Route exact path="/honlap/esemenyek">
               <Esemenyek />
             </Route>
-            <Route exact path="/header">
+            <Route exact path="/honlap/header">
               <Header />
             </Route>
-            <Route path="/hirdetes">
+            <Route path="/honlap/hirdetes">
               <Hirdetes />
             </Route>
-            <Route exact path="/">
+            <Route path="/">
               <HomePage />
             </Route>
-            <Route path="/kapcsolat">
+            <Route path="/honlap/kapcsolat">
               <Kapcsolat />
             </Route>
-            <Route exact path="/messenger">
+            <Route exact path="/honlap/messenger">
               <Messenger />
             </Route>
-            <Route exact path="/postFeed">
+            <Route exact path="/honlap/postFeed">
               <PostFeed />
             </Route>
           </Switch>

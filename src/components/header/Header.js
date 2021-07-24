@@ -15,7 +15,7 @@ function Header() {
       </div>
       <div className='buttonsWrapper'>
         <HeaderButton text='Youtube csatorna' url='https://www.youtube.com/channel/UCn66o0kJDpHK8Wfu72U4oKg/featured' />
-        <HeaderInnerLink text='Hirdetés' url='/hirdetes' />
+        <HeaderInnerLink text='Hirdetés' url='/honlap/hirdetes' />
       </div>
     </div>
   )
