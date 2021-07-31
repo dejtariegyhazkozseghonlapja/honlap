@@ -22,10 +22,3 @@ body::-webkit-scrollbar {
     padding: 0;
     border: none;
 }
-
-@media screen and (max-width: 900px){
-    .mainWrapper{
-        width: 100%;
-    }
-
-}

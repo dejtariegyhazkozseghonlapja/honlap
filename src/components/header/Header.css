@@ -30,9 +30,15 @@
   padding: 0px 1% 0px 0px;
 }
 
-@media screen and (max-width: 900px){
-  .mainWrapper{
-      width: 100%;
-  }
 
+@media screen and (max-width: 900px){
+  .headerWrapper{
+    height: auto;
+  }
+  .headerTitle {
+    font-size: medium;
+  }
+  .buttonsWrapper p{
+    font-size: small;
+  }
 }
