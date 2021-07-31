@@ -11,11 +11,9 @@ function HeaderInnerLink(props) {
   }
 
   return (
-    <div>
-      <Link to={handleClick} className='LinkWrapper'>
-        <p>{text}</p>
-      </Link>
-    </div>
+    <Link to={handleClick} className='LinkWrapper'>
+      <p>{text}</p>
+    </Link>
   )
 }
 

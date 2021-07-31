@@ -9,11 +9,9 @@ function HeaderButton(props) {
     window.location.href = url;
   }
   return (
-    <div>
       <div className='headerButtonWrapper'>
         <p onClick={handleClick}>{text}</p>
       </div>
-    </div>
   )
 }
 

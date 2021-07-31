@@ -23,7 +23,9 @@
 
 @media screen and (max-width: 900px){
   .LinkWrapper{
-    min-width: 40px;
+    height: 100%;
+    padding: 2px;
+    min-width: 0px;
   }
 
 }
