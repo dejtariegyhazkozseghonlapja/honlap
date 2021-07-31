@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/honlap/static/css/main.b19a290f.chunk.css",
-    "main.js": "/honlap/static/js/main.bc426f13.chunk.js",
-    "main.js.map": "/honlap/static/js/main.bc426f13.chunk.js.map",
+    "main.css": "/honlap/static/css/main.27b0c570.chunk.css",
+    "main.js": "/honlap/static/js/main.a32f75e2.chunk.js",
+    "main.js.map": "/honlap/static/js/main.a32f75e2.chunk.js.map",
     "runtime-main.js": "/honlap/static/js/runtime-main.7e055188.js",
     "runtime-main.js.map": "/honlap/static/js/runtime-main.7e055188.js.map",
     "static/js/2.cfa78a8a.chunk.js": "/honlap/static/js/2.cfa78a8a.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.44cf6063.chunk.js": "/honlap/static/js/3.44cf6063.chunk.js",
     "static/js/3.44cf6063.chunk.js.map": "/honlap/static/js/3.44cf6063.chunk.js.map",
     "index.html": "/honlap/index.html",
-    "static/css/main.b19a290f.chunk.css.map": "/honlap/static/css/main.b19a290f.chunk.css.map",
+    "static/css/main.27b0c570.chunk.css.map": "/honlap/static/css/main.27b0c570.chunk.css.map",
     "static/js/2.cfa78a8a.chunk.js.LICENSE.txt": "/honlap/static/js/2.cfa78a8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7e055188.js",
     "static/js/2.cfa78a8a.chunk.js",
-    "static/css/main.b19a290f.chunk.css",
-    "static/js/main.bc426f13.chunk.js"
+    "static/css/main.27b0c570.chunk.css",
+    "static/js/main.a32f75e2.chunk.js"
   ]
 }
